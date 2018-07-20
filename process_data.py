@@ -14,7 +14,7 @@ def process_features(weather_data):
     :return: DataFrame containing only the features
     """
     # get a DataFrame with all the features
-    weather_data_features = weather_data[['mat3', 'mit3', 'met3', 'prec3',
+    weather_data_features = weather_data[['month', 'mat3', 'mit3', 'met3', 'prec3',
                                           'mat2', 'mit2', 'met2', 'prec2',
                                           'mat1', 'mit1', 'met1', 'prec1']]
     # get a copy
