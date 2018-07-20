@@ -7,7 +7,7 @@ import math
 from sklearn import metrics
 from get_features_and_targets import ModelSets
 
-data_sets = ModelSets("weather data/neural net past 3 days weather data (csv).csv")
+data_sets = ModelSets("weather data/past 3 years weather data.csv")
 
 # We'll do stochastic gradient descent, so batch size = 1
 nn_model = nn_functions.train_nn_regression_model(optimizer=tf.train.GradientDescentOptimizer(learning_rate=0.005),
