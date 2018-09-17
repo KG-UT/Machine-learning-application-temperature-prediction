@@ -1,6 +1,6 @@
 # Temperature prediction
 
-Creates a decision tree model which is used to predict the mean temperature for a given day on average within ~3 degrees Celsius!
+Creates a decision tree model, which can predict the mean temperature for a given day within ~3 degrees Celsius on average!
 
 
 ## Getting started
