@@ -8,7 +8,12 @@ Creates a decision tree model, which can predict the mean temperature for a give
 Follow these instructions to run my program on your computer.
 
 ### Prerequisites
-Have python 3.6 on your computer and install the following packages: numpy, scipy, sklearn, pandas, tensorflow
+Have python 3.6 on your computer and install the following packages: 
+- numpy
+- scipy
+- sklearn
+- pandas
+- tensorflow
 
 
 ### Running the program
