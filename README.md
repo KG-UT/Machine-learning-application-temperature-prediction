@@ -9,7 +9,6 @@ Follow these instructions to run my program on your computer.
 
 ### Prerequisites
 Install the following packages: numpy, scipy, sklearn, pandas, tensorflow
-Then 
 
 ### Running the program
 Simply run predict_temperature.py and give the relevant data asked!
